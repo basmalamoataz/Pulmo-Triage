@@ -115,11 +115,11 @@ streamlit run app.py              # terminal 2: the doctor app
 
 | Role | Member |
 |---|---|
-| Data exploration and cleaning | |
-| Vision model | |
+| Data exploration and cleaning | Omar Ahmed |
+| Vision model | Hesham Dahy|
 | Text model and summary (NLP) | Basmala Moataz |
-| Fusion model | |
-| App and deployment | |
+| Fusion model | Shahd Sayed |
+| App and deployment |Ahmed Hesham|
 
 ## Disclaimer
 
