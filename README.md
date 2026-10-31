@@ -2,7 +2,7 @@
 
 Multimodal triage of chest X-rays. The system reads the **X-ray** and the doctor's **clinical note**, predicts **110 findings**, gives each patient a **priority** (high / medium / low), and writes a short, traceable **summary** for the doctor.
 
-Graduation project · Samsung Innovation Campus (SIC 8) · AI track · 2026
+Graduation project · Samsung Innovation Campus (SIC 8) · AI track · 2026  
 
 <!-- ![PulmoTriage app](docs/images/app.png) -->
 
